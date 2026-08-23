@@ -1,1 +1,6 @@
+Logic Building Assignment-2
 
+Q.1 GradeEvaluationSystem.java
+Q.2 LeapYear.java
+Q.3 DayOfWeek.java
+Q.4 DataType.java
