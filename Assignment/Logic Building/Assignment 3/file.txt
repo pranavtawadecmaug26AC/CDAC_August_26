@@ -1,0 +1,8 @@
+Logic Building Assignment-3
+
+Q.1 Sum.java
+Q.2 AgeChecker.java
+Q.3 EvenNumbers.java
+Q.4 PositiveNumber.java
+Q.5 MultiplicationTable.java
+Q.6 SumOfNum.java
