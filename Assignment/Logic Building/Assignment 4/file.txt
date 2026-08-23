@@ -1,0 +1,30 @@
+Logic Building Assignment-4
+
+Q.1 PrintNumbers.java
+Q.2 MultiplesOf3.java
+Q.3 Factorial.java
+Q.4 EvenNumbers.java
+Q.5 SumOfOddNumbers.java
+Q.6 AllArrayElements.java
+Q.7 SumAllElementArray.java
+Q.8 AllNamesArray.java
+Q.9 LargestElementInArray.java
+Q.10 AverageOfArray.java
+Q.11 PositiveNegativeNoInArray.java
+Q.12 SortArray.java
+Q.13 SpecificElementArray.java
+Q.14 IndexElementArray.java
+Q.15 NumberPattern15.java
+Q.16 NumberPattern16.java
+Q.17 OddNumberPattern17,java
+Q.18 NumberPattern18.java
+Q.19 NumberPattern19.java
+Q.20 NumberPattern20.java
+Q.21 NumberPattern21.java
+Q.23 StarPattern22.java
+Q.24 ReverseString.java 
+Q.27 StringLiteralObject.java
+Q.28 StringCreation.java
+Q.29 StringConcatenation.java
+Q.30 StringIntern.java
+Q.31 StringLiterals.java
