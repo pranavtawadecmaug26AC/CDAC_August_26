@@ -1,0 +1,23 @@
+Assignment 2--CPP
+
+Question 1 — Inventory Management System
+Part A — Product class with Array of Objects
+question11.cpp
+
+Part B — Function Overloading
+question12.cpp
+
+
+Question 2 — Hospital Patient Registry
+question2.cpp
+
+
+Question 3 — Game Engine Entity System
+Part A — this Pointer and Method Chaining
+question31.cpp
+
+Part B — Namespaces
+question32.cpp
+
+Part C — Dynamic 2D Game Map
+question33.cpp
