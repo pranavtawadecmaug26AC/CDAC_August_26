@@ -1,0 +1,37 @@
+Assignment 1--CPP
+
+Question 1 — IoT Sensor Dashboard
+
+Problem 1 — Sensor Reading Classifier
+sensorReading.cpp
+
+Problem 2 — Sensor Log Buffer
+sensorLog.cpp
+
+Problem 3 — Building Sensor Grid
+sensorGrid.cpp
+
+Problem 4 — Startup Configuration via CLI
+sensor_monitor.cpp
+
+
+Question 2 — Embedded Memory Manager & Signal Processor
+
+Problem 1 —The Bug in Sensor Recalibration
+bugSensorRecalibration.cpp
+
+Problem 2 — Signal Processing Pipeline
+signalProcessingPipeline.cpp
+
+Problem 3 — Hardware Register Access
+hardwareRegisterAccess.cpp
+
+Problem 4 — Calibration Packet Parser
+calibrationPacketParser.cpp
+
+Problem 5 — Drone Navigation Utilities
+droneNavigationUtilities.cpp
+
+Question 3 — HR Payroll Engine
+hrPayrollEngine.cpp
+
