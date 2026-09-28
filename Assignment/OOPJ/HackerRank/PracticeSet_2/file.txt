@@ -1,0 +1,20 @@
+// Practice Set-2
+
+1 = Book and Author MGMT System =  
+2 = BoxVolumeCalculator = Solution.java
+3 = Static Power Calculator =
+4 = Patient BMI Calculator = 
+5 = Animal and Bird Inheritance-1 = 
+6 = Employee Inheritance System - 1 = 
+7 = School System Inheritance = 
+8 = Fruit Taste — Method Overriding = 
+9 = Shape Drawing — Runtime Polymorphism = 
+10 = Java Exception Handling (Try-catch) = 
+11 = Java Exception Handling = 
+12 = Multiple Exception Handler = 
+13 = Custom Exception 2 =
+14 = Bank Account System with Custom Exception = 
+15 = Unique Numbers Counter = 
+16 = Student Name Sorter = 
+17 = Word Frequency Counter 13 = 
+18 = Library Book Borrow Tracker 1 = 
